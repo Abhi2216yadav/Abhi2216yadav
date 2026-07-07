@@ -1,153 +1,112 @@
-<h1 align="center">Hi 👋, I'm Abhay Yadav</h1>
+<!-- ========================================= -->
+<!--         CYBERPUNK GITHUB PROFILE          -->
+<!-- ========================================= -->
 
-<h3 align="center">
-🚀 AI Developer | Google Cloud Learner | Full Stack Developer | B.Tech CSE Student
-</h3>
+<div align="center">
+
+# ⚡ ABHAY YADAV ⚡
+
+### 🚀 AI Developer • Full Stack Developer • Google Cloud Learner
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Building+AI+Powered+Solutions;Full+Stack+Developer;Google+Cloud+Learner;Always+Learning+Something+New" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Abhi2216yadav&label=Profile%20Views&color=00FFFF&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🌌 About Me
+
+```yaml
+Name: Abhay Yadav
+
+Education:
+   B.Tech Computer Science & Engineering
+
+Location:
+   India 🇮🇳
+
+Current Focus:
+   Artificial Intelligence
+   Google Cloud
+   Vertex AI
+   Full Stack Development
+
+Currently Learning:
+   React
+   Gemini API
+   Cloud Computing
+   System Design
+
+Fun Fact:
+   I love building projects that solve real-world problems.
+```
+
+---
+
+# 💫 Connect With Me
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=800&color=00C4FF&center=true&vCenter=true&width=800&lines=AI+Developer;Full+Stack+Developer;Google+Cloud+Learner;Building+Real+World+Projects;Always+Learning+New+Things!" />
-</p>
 
----
-
-## 👨‍💻 About Me
-
-🎓 B.Tech CSE Student
-
-🤖 Passionate about Artificial Intelligence
-
-☁️ Google Cloud Learner
-
-🚀 Full Stack Developer
-
-💻 Love building real-world projects
-
-🌱 Currently Learning
-
-- Vertex AI
-- Gemini API
-- React
-- Node.js
-- Cloud Computing
-
----
-
-## 🚀 Featured Projects
-
-### 🚁 Disaster Response Drone
-AI-powered disaster response drone using Raspberry Pi, YOLO and Mission Planner.
-
-### 💪 Fit-Strike
-AI-powered Fitness & Wellness Platform for Students.
-
-### 🤖 Gemini AI Projects
-Applications built using Gemini API and Vertex AI.
-
-### 🌐 Portfolio Website
-Modern responsive portfolio with animations.
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/abhay-yadav-357425329/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:abhayyadav4402@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<a href="https://github.com/Abhi2216yadav">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
 ---
 
-# 💻 Tech Stack
+# 🚀 What I'm Working On
 
-<p align="center">
+✔ AI Powered Applications
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,react,nodejs,express,mongodb,mysql,git,github,vscode,linux,gcp,firebase"/>
+✔ Google Cloud Projects
 
-</p>
+✔ Vertex AI
 
----
+✔ Gemini API
 
-# 📊 GitHub Stats
+✔ Full Stack Development
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
+✔ Smart India Hackathon Projects
 
 ---
 
-# 🔥 GitHub Streak
+# ⚡ Current Mission
 
-<p align="center">
+```text
+🚀 Build Amazing Projects
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+🤖 Learn AI Every Day
 
-</p>
+☁️ Master Google Cloud
 
----
+💻 Become a Great Software Engineer
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
+❤️ Help People Through Technology
+```
 
 ---
 
-# 🏆 GitHub Trophy
+# 🌟 My Coding Philosophy
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&margin-w=10&margin-h=10"/>
-
-</p>
+> "Dream Big. Build Bigger. Never Stop Learning."
 
 ---
 
-# 🐍 Contribution Snake
+<div align="center">
 
-<p align="center">
+## ⭐ Thanks for visiting my profile ⭐
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-# 🚀 Coding Quote
-
-> **"Dream Big • Build Bigger • Never Stop Learning."**
-
----
-
-# 👀 Visitor Count
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
-
-</p>
-
----
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile ⭐
-
-</p>
+</div>
