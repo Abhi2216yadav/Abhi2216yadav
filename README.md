@@ -1,19 +1,14 @@
+<div align="center"> 
+# 🚀 Abhay Yadav
 <div align="center">
   
-# 🚀 Abhay Yadav
-
-<div align="center">
-
 ### AI Developer • Google Cloud Learner • Full Stack Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI+Powered+Solutions;Smart+India+Hackathon+Finalist;Oracle+AI+Certified;Always+Learning+Something+New"/>
-
 <br>
-
 <a href="https://www.linkedin.com/in/abhay-yadav-357425329/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-
 <a href="mailto:abhayyadav4402@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -26,28 +21,33 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-Hi 👋, I'm **Abhay Yadav**, a B.Tech Computer Science student with a strong interest in **Artificial Intelligence, Cloud Computing, and Full Stack Development**.
+Hi there! 👋 I'm **Abhay Yadav**, a **B.Tech Computer Science & Engineering** student at **Abacus Institute of Engineering & Management** with a passion for **Artificial Intelligence, Cloud Computing, and Full Stack Development**.
 
-🚀 I enjoy building real-world applications that combine modern web technologies with AI to solve meaningful problems.
+I enjoy building real-world applications that combine modern web technologies with AI to create practical and impactful solutions. I'm constantly learning new technologies, improving my problem-solving skills, and exploring opportunities to contribute to innovative projects.
 
-  🎓 B.Tech CSE @ Abacus Institute of Engineering & Management
-  📈 Current CGPA: **8.51**
-  🤖 Interested in Artificial Intelligence & Computer Vision
-  ☁️ Learning Google Cloud, Vertex AI & Generative AI
-  💻 Exploring Html, CSS,JavaScript, Node.js & System Design
-  🎯 Goal: Become a Software Engineer specializing in AI and Cloud Technologies
-  🤝 Open to internships, collaborations, and open-source contributions
-  
-  🏆 Smart India Hackathon 2025 Hardware Grand Finalist
-  ☁ Oracle Cloud AI Foundations Certified
-  💼 Python Full Stack Development Intern
-  📚 NPTEL Certified
-  ❤️ Passionate about AI, Cloud Computing & Full Stack Development
+### 🚀 Currently Focused On
 
----
+- 🤖 Artificial Intelligence, Generative AI & Computer Vision
+- ☁️ Google Cloud Platform, Vertex AI & Gemini API
+- 💻 HTML, CSS, JavaScript, React & Node.js
+- 📚 Data Structures & Algorithms and System Design
+- 🌱 Continuous learning through hands-on projects and open-source contributions
 
+### 🏆 Highlights
+
+- 🏅 Smart India Hackathon 2025 – Hardware Grand Finalist
+- ☁️ Oracle Cloud Infrastructure 2025 AI Foundations Associate
+- 💼 Completed Python Full Stack Development Internship
+- 📜 NPTEL Certified – Problem Solving Through Programming in C
+- 🎓 Current CGPA: **8.51**
+
+### 🎯 Career Goal
+
+To become a **Software Engineer** specializing in **Artificial Intelligence, Cloud Computing, and Full Stack Development**, while building scalable products that solve real-world challenges and create meaningful impact.
+
+> **"Code with purpose. Learn continuously. Build solutions that matter."** 🚀
 # 🏆 Highlights
 
 | Achievement | Description |
