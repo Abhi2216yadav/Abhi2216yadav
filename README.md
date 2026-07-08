@@ -26,29 +26,25 @@
 
 ---
 
-# 👨‍💻 About Me
+### 👨‍💻 About Me
 
-```json
-{
-  "name": "Abhay Yadav",
-  "education": "B.Tech CSE @ AIEM",
-  "cgpa": "8.51",
-  "role": "AI & Full Stack Developer",
-  "currently_learning": [
-    "Vertex AI",
-    "React",
-    "System Design"
-  ],
-  "goal": "Software Engineer"
-}
-```
+Hi 👋, I'm **Abhay Yadav**, a B.Tech Computer Science student with a strong interest in **Artificial Intelligence, Cloud Computing, and Full Stack Development**.
 
-- 🎓 B.Tech Computer Science & Engineering
-- 🏆 Smart India Hackathon 2025 Hardware Grand Finalist
-- ☁ Oracle Cloud AI Foundations Certified
-- 💼 Python Full Stack Development Intern
-- 📚 NPTEL Certified
-- ❤️ Passionate about AI, Cloud Computing & Full Stack Development
+🚀 I enjoy building real-world applications that combine modern web technologies with AI to solve meaningful problems.
+
+  🎓 B.Tech CSE @ Abacus Institute of Engineering & Management
+  📈 Current CGPA: **8.51**
+  🤖 Interested in Artificial Intelligence & Computer Vision
+  ☁️ Learning Google Cloud, Vertex AI & Generative AI
+  💻 Exploring Html, CSS,JavaScript, Node.js & System Design
+  🎯 Goal: Become a Software Engineer specializing in AI and Cloud Technologies
+  🤝 Open to internships, collaborations, and open-source contributions
+  
+  🏆 Smart India Hackathon 2025 Hardware Grand Finalist
+  ☁ Oracle Cloud AI Foundations Certified
+  💼 Python Full Stack Development Intern
+  📚 NPTEL Certified
+  ❤️ Passionate about AI, Cloud Computing & Full Stack Development
 
 ---
 
