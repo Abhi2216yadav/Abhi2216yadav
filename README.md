@@ -1,6 +1,6 @@
 <div align="center"> 
   
-👋 Hello, Coders!.....
+👋 Hello, Coders!...
 
 <div align="center">
   
