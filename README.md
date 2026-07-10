@@ -94,18 +94,6 @@ I enjoy building real-world applications that combine modern web technologies wi
 - ✅ Python Programming Certification
 - ✅ Tata GenAI Powered Data Analytics (Forage)
 
----
-
-# 🎯 2026 Goals
-
-- 🤖 Build impactful AI products
-- ☁ Master Google Cloud & Vertex AI
-- 💻 Become a MERN Stack Expert
-- 🌍 Contribute to Open Source
-- 🚀 Secure a Software Engineering Role
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
