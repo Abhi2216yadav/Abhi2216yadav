@@ -31,10 +31,6 @@ Hi there! 👋 I'm **Abhay Yadav**, a **B.Tech Computer Science & Engineering** 
 
 I enjoy building real-world applications that combine modern web technologies with AI to create practical and impactful solutions. I'm constantly learning new technologies, improving my problem-solving skills, and exploring opportunities to contribute to innovative projects.
 
-### 🎯 Career Goal
-
-To become a **Software Engineer** specializing in **Artificial Intelligence, Cloud Computing, and Full Stack Development**, while building scalable products that solve real-world challenges and create meaningful impact.
-
 > **"Code with purpose. Learn continuously. Build solutions that matter."** 🚀
 # 🏆 Highlights
 
