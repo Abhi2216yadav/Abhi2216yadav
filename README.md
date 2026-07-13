@@ -59,8 +59,7 @@ I enjoy building real-world applications that combine modern web technologies wi
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons
-  i=c,cpp,python,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,linux,docker,gcp,firebase,tensorflow&perline=10"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,linux,docker,gcp,firebase,tensorflow&perline=10"/>
 
 </div>
 
@@ -72,12 +71,19 @@ I enjoy building real-world applications that combine modern web technologies wi
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhi2216yadav&show_icons=true&theme=tokyonight&hide_border=true"/>
 
+<img width="49%" src="https://streak-stats.demolab.com?user=Abhi2216yadav&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi2216yadav&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhi2216yadav&theme=tokyonight&utcOffset=5.5"/>
+
 <br><br>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi2216yadav&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
 ---
 
 # 📜 Certifications
