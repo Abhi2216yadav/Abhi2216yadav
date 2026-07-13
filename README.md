@@ -59,7 +59,8 @@ I enjoy building real-world applications that combine modern web technologies wi
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,linux,docker,gcp,firebase,tensorflow&perline=10"/>
+<img src="https://skillicons.dev/icons
+  i=c,cpp,python,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,linux,docker,gcp,firebase,tensorflow&perline=10"/>
 
 </div>
 
